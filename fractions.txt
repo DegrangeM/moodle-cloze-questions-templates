@@ -1,0 +1,5 @@
+Calculer puis mettre sous forme de fraction irréductible :<br> \(\dfrac{7}{3} + \dfrac{5}{6}\) =
+<div style="display:inline-flex;flex-direction: column;vertical-align:middle;">
+    <div>{3:NUMERICAL:=19~99}</div>
+    <div style="border-top:1px solid black;padding-top: 4px;">{1:NUMERICAL:=6~99}</div>
+</div>
