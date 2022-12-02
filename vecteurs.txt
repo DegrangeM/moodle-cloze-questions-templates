@@ -1,0 +1,7 @@
+Soit A(10;3) et B(2;5). Calculer les coordonnées du vecteur \( \vec{AB} \).<br><br>
+
+<div style="display:flex;">
+    <div>\( \vec{AB} \left( \begin{matrix}\phantom{a\\b\\c\\d}\end{matrix} \right. \)</div>
+    <div>{1:NUMERICAL:=-8~%0%11}<br>{1:NUMERICAL:=2~%0%11}</div>
+    <div>\( \left. \begin{matrix}\phantom{a\\b\\c\\d}\end{matrix} \right) \)</div>
+</div>
